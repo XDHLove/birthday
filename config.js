@@ -13,7 +13,7 @@ var config = {
         "和你一模一样的花",
         "但只有你是我",
         "独一无二的玫瑰",
-        "YAMI~~",
+        "Happy birthday~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -26,13 +26,16 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
+        "和你一模一样的花": "./imgs/many.png",
+        "独一无二的玫瑰": "./imgs/one.png",
+        "Happy birthday~~": "./imgs/neck.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "彩旗",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
